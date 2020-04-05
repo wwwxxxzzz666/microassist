@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+# Site settings 配置站点
+title: 'MicroAssist'
+description: 'MicroAssist'
+url: 'https://wwwxxxzzz666.github.io/microassist/' # your host
